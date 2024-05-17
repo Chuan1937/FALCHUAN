@@ -47,7 +47,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\APP\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\M\MATLAB Driver\QT_CLION\T1" -B"D:\M\MATLAB Driver\QT_CLION\T1\cmake-build-debug"
+  command = "D:\APP\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\M\MATLAB Driver\QT_CLION\BGP3\BGP_3" -B"D:\M\MATLAB Driver\QT_CLION\BGP3\BGP_3\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

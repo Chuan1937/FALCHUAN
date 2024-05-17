@@ -39,7 +39,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
+        D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        注意: 包含文件:  D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        注意: 包含文件:  D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "注意: 包含文件:  "
   -
@@ -85,7 +85,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
+        D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -97,7 +97,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        注意: 包含文件:  D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        注意: 包含文件:  D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "注意: 包含文件:  "
   -
@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-s4w904"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-s4w904"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6ddzbj"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6ddzbj"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -119,10 +119,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-s4w904
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6ddzbj
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_cf082 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_cf082.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_cf082.dir\\ /FS -c "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
-        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_cf082.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cf082.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_cf082.exe /implib:cmTC_cf082.lib /pdb:cmTC_cf082.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_b35da && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b35da.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_b35da.dir\\ /FS -c "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b35da.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b35da.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_b35da.exe /implib:cmTC_b35da.lib /pdb:cmTC_b35da.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -134,8 +134,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsgb7l"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsgb7l"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2j17tk"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2j17tk"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -144,10 +144,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsgb7l
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2j17tk
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_7f34b && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_7f34b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_7f34b.dir\\ /FS -c "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7f34b.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7f34b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_7f34b.exe /implib:cmTC_7f34b.lib /pdb:cmTC_7f34b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_3eab4 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_3eab4.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_3eab4.dir\\ /FS -c "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_3eab4.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3eab4.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_3eab4.exe /implib:cmTC_3eab4.lib /pdb:cmTC_3eab4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -161,12 +161,12 @@ events:
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake:27 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake:133 (include)"
-      - "CMakeLists.txt:11 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cskqu5"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cskqu5"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ct7p2g"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ct7p2g"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -176,12 +176,12 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cskqu5
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ct7p2g
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_b2446 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b2446.dir\\src.c.obj /FdCMakeFiles\\cmTC_b2446.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-cskqu5\\src.c"
-        FAILED: CMakeFiles/cmTC_b2446.dir/src.c.obj 
-        D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b2446.dir\\src.c.obj /FdCMakeFiles\\cmTC_b2446.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-cskqu5\\src.c"
-        D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-cskqu5\\src.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_6183d && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6183d.dir\\src.c.obj /FdCMakeFiles\\cmTC_6183d.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ct7p2g\\src.c"
+        FAILED: CMakeFiles/cmTC_6183d.dir/src.c.obj 
+        D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6183d.dir\\src.c.obj /FdCMakeFiles\\cmTC_6183d.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ct7p2g\\src.c"
+        D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ct7p2g\\src.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -195,12 +195,12 @@ events:
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake:27 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake:133 (include)"
-      - "CMakeLists.txt:11 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ael8qw"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ael8qw"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8ivs5l"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8ivs5l"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -210,13 +210,13 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ael8qw
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8ivs5l
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_f2ea7 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_f2ea7.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_f2ea7.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ael8qw\\CheckFunctionExists.c"
-        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f2ea7.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f2ea7.dir\\CheckFunctionExists.c.obj  /out:cmTC_f2ea7.exe /implib:cmTC_f2ea7.lib /pdb:cmTC_f2ea7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_f2ea7.exe 
-        cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f2ea7.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f2ea7.dir\\CheckFunctionExists.c.obj  /out:cmTC_f2ea7.exe /implib:cmTC_f2ea7.lib /pdb:cmTC_f2ea7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f2ea7.dir\\CheckFunctionExists.c.obj /out:cmTC_f2ea7.exe /implib:cmTC_f2ea7.lib /pdb:cmTC_f2ea7.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_f2ea7.dir/intermediate.manifest CMakeFiles\\cmTC_f2ea7.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_1b67a && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_1b67a.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_1b67a.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-8ivs5l\\CheckFunctionExists.c"
+        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1b67a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1b67a.dir\\CheckFunctionExists.c.obj  /out:cmTC_1b67a.exe /implib:cmTC_1b67a.lib /pdb:cmTC_1b67a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_1b67a.exe 
+        cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1b67a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1b67a.dir\\CheckFunctionExists.c.obj  /out:cmTC_1b67a.exe /implib:cmTC_1b67a.lib /pdb:cmTC_1b67a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1b67a.dir\\CheckFunctionExists.c.obj /out:cmTC_1b67a.exe /implib:cmTC_1b67a.lib /pdb:cmTC_1b67a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_1b67a.dir/intermediate.manifest CMakeFiles\\cmTC_1b67a.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”
         ninja: build stopped: subcommand failed.
         
@@ -231,12 +231,12 @@ events:
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake:27 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake:133 (include)"
-      - "CMakeLists.txt:11 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a99x5p"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a99x5p"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8kkmuv"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8kkmuv"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -246,13 +246,13 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a99x5p
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8kkmuv
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_807d8 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_807d8.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_807d8.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-a99x5p\\CheckFunctionExists.c"
-        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_807d8.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_807d8.dir\\CheckFunctionExists.c.obj  /out:cmTC_807d8.exe /implib:cmTC_807d8.lib /pdb:cmTC_807d8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_807d8.exe 
-        cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_807d8.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_807d8.dir\\CheckFunctionExists.c.obj  /out:cmTC_807d8.exe /implib:cmTC_807d8.lib /pdb:cmTC_807d8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_807d8.dir\\CheckFunctionExists.c.obj /out:cmTC_807d8.exe /implib:cmTC_807d8.lib /pdb:cmTC_807d8.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_807d8.dir/intermediate.manifest CMakeFiles\\cmTC_807d8.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_bc98f && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_bc98f.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_bc98f.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-8kkmuv\\CheckFunctionExists.c"
+        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_bc98f.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_bc98f.dir\\CheckFunctionExists.c.obj  /out:cmTC_bc98f.exe /implib:cmTC_bc98f.lib /pdb:cmTC_bc98f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_bc98f.exe 
+        cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_bc98f.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_bc98f.dir\\CheckFunctionExists.c.obj  /out:cmTC_bc98f.exe /implib:cmTC_bc98f.lib /pdb:cmTC_bc98f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_bc98f.dir\\CheckFunctionExists.c.obj /out:cmTC_bc98f.exe /implib:cmTC_bc98f.lib /pdb:cmTC_bc98f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_bc98f.dir/intermediate.manifest CMakeFiles\\cmTC_bc98f.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthread.lib”
         ninja: build stopped: subcommand failed.
         
@@ -268,12 +268,12 @@ events:
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:33 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:45 (include)"
       - "C:/Qt/6.8.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake:178 (find_package)"
-      - "CMakeLists.txt:11 (find_package)"
+      - "CMakeLists.txt:14 (find_package)"
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2lhzzr"
-      binary: "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2lhzzr"
+      source: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ro4kdk"
+      binary: "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ro4kdk"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -283,10 +283,10 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2lhzzr
+        Change Dir: D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ro4kdk
         
-        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_14b2f && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_14b2f.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_14b2f.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\T1\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-2lhzzr\\src.cxx"
-        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_14b2f.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_14b2f.dir\\src.cxx.obj  /out:cmTC_14b2f.exe /implib:cmTC_14b2f.lib /pdb:cmTC_14b2f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s):D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_4e019 && [1/2] D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_4e019.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_4e019.dir\\ /FS -c "D:\\M\\MATLAB Driver\\QT_CLION\\BGP3\\BGP_3\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-ro4kdk\\src.cxx"
+        [2/2] cmd.exe /C "cd . && "D:\\APP\\Clion\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4e019.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- D:\\APP\\vs2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4e019.dir\\src.cxx.obj  /out:cmTC_4e019.exe /implib:cmTC_4e019.lib /pdb:cmTC_4e019.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug"
+			"value" : "d:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/M/MATLAB Driver/QT_CLION/T1"
+			"value" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -6023,7 +6023,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug"
+			"value" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug"
 		},
 		{
 			"name" : "T1_IS_TOP_LEVEL",
@@ -6047,7 +6047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/M/MATLAB Driver/QT_CLION/T1"
+			"value" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3"
 		},
 		{
 			"name" : "Vulkan_GLSLANG_VALIDATOR_EXECUTABLE",

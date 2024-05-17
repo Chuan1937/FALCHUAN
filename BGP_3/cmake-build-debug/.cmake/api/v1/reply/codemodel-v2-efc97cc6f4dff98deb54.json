@@ -43,7 +43,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "T1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-T1-Debug-afacdf2ca88082927d78.json",
+					"jsonFile" : "target-T1-Debug-6022a68a849d9646e4f4.json",
 					"name" : "T1",
 					"projectIndex" : 0
 				},
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug",
-		"source" : "D:/M/MATLAB Driver/QT_CLION/T1"
+		"build" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3/cmake-build-debug",
+		"source" : "D:/M/MATLAB Driver/QT_CLION/BGP3/BGP_3"
 	},
 	"version" : 
 	{
