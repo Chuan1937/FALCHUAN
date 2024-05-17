@@ -1,0 +1,10 @@
+# ninja log v5
+1695	2325	7375707111537150	T1.exe	57f82d40c3e35446
+4	178	7375707094533563	T1_autogen/timestamp	67f13b39ef176ca6
+4	178	7375707094533563	T1_autogen/mocs_compilation.cpp	67f13b39ef176ca6
+178	1977	7375696951082884	CMakeFiles/T1.dir/main.cpp.obj	766557fb11660674
+4	178	7375707094533563	D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/T1_autogen/timestamp	67f13b39ef176ca6
+4	426	7376521415223733	build.ninja	6e8174b1a3890e7
+4	178	7375707094533563	D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug/T1_autogen/mocs_compilation.cpp	67f13b39ef176ca6
+350	2194	7375695719253539	CMakeFiles/T1.dir/T1_autogen/mocs_compilation.cpp.obj	1321051ea1855b2e
+184	1694	7375707109668859	CMakeFiles/T1.dir/mainwindow.cpp.obj	2e2c54b58b2fd33a

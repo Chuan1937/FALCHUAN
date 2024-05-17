@@ -1,0 +1,5 @@
+"D:\APP\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/APP/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\M\MATLAB Driver\QT_CLION\T1" -B "D:\M\MATLAB Driver\QT_CLION\T1\cmake-build-debug"
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/M/MATLAB Driver/QT_CLION/T1/cmake-build-debug
