@@ -4,7 +4,10 @@
 
 原始程序是针对二进制浮点数地震数据，所以目前的版本也是只能对二维纯数值型数据的二进制文件进行压缩，解压缩，但是可以指定需要解压，解压缩的二维矩阵范围。
 程序已经含有的方法有可控精度的视觉无损压缩。在视觉无损要求下最高压缩率为90.61%，速度为7s左右（Windows 10 Enterprise，AMD Ryzen 7 5800U，16GB RAM）。
-
+# 安装
+程序目前只能在Windows平台运行，后续会考虑添加linux与mac。
+程序依赖于[zfp](https://github.com/LLNL/zfp)与[armadillo](https://arma.sourceforge.net/)，需要先配置他们。
+但是本例已经将需要的库文件放在include里面，lib里面则放置了对应的库文件。可以配置visual stdio工程项目，然后将include与lib添加到项目->属性的VC++的包含目录与库目录中。
 
 # 未来的工作：
 1.添加多种无损，有损算法。
