@@ -22,10 +22,6 @@ The core algorithm uses LLNL's [zfp](https://github.com/LLNL/zfp)
 # Author
 旗正飘飘--do your best and do your job
 
-# Sponsor
-If you like this project, please consider sponsoring me. Buy me a cup of tea!!!
-![微信收款码](https://github.com/user-attachments/assets/938893d9-4ba3-4018-ae79-4a20d06537ec)
-![支付宝收款码](https://github.com/user-attachments/assets/b5c61aca-717a-4c29-8045-5ff5de159b3f)
 
 
 # License
