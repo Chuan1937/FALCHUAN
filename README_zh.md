@@ -19,12 +19,6 @@
 # 作者
 旗正飘飘--尽其能，谋其事
 
-# 赞助
-如果您认可此项目，请考虑赞助我吧。请我喝杯茶！！！
-
-![微信收款码](https://github.com/user-attachments/assets/d6c5e9fa-54fe-4ebf-9d56-5493500ee760)
-![支付宝收款码](https://github.com/user-attachments/assets/14121abb-2cb3-4ba5-b3a0-18012d89a88e)
-
 
 # 许可
 BSD-3-Clause
